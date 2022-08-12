@@ -33,7 +33,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter Animations'),centerTitle: true,
+        title: Text('Animations'),centerTitle: true,
       ),
       body:Center(
         child: Transform(
